@@ -7,6 +7,15 @@
       "versionName": "2.0.0",
       "downloadUrl": "https://github.com/Spark-Reborn/vendor_addons/raw/refs/heads/main/prebuilt/HydroFi/Hydrofi.apk",
       "changelog": "- New UI\n- 4K 60fps recording support"
+    },
+    {
+      "packageName": "code.name.monkey.retromusic",
+      "name": "Retro music",
+      "versionCode": 660,
+      "versionName": "6.6.0",
+      "downloadUrl": "https://github.com/RetroMusicPlayer/RetroMusicPlayer/releases/download/v6.6.0/app-fdroid-release.apk",
+      "changelog": "- New UI\n- 4K 60fps recording support",
+      "iconUrl": "https://raw.githubusercontent.com/RetroMusicPlayer/RetroMusicPlayer/refs/heads/dev/app/src/main/ic_launcher-web.png"
     }
   ]
 }
